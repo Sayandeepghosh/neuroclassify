@@ -1,12 +1,15 @@
 # neuroclassify
 
-[![CI Tests](https://img.shields.io/badge/pytest-passing-brightgreen.svg)]()
+[![CI Tests](https://github.com/Sayandeepghosh/neuroclassify/actions/workflows/ci.yml/badge.svg)](https://github.com/Sayandeepghosh/neuroclassify/actions)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blueviolet.svg)](https://sayandeepghosh.github.io/neuroclassify/)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-blue.svg)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Pipeline-orange.svg)](https://scikit-learn.org/)
 [![Latency](https://img.shields.io/badge/Latency-%3C0.6ms%20CPU-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 Industrial-grade text & telemetry signal classification pipeline engineered for low-latency CPU edge inference (< 0.6 ms) across mission-critical enterprise domains.
+
+🚀 **Interactive In-Browser Signal Playground**: [https://sayandeepghosh.github.io/neuroclassify/](https://sayandeepghosh.github.io/neuroclassify/)
 
 ---
 
